@@ -13,7 +13,7 @@
     * [产品_集成平台_云IDM](_posts/2017-06-19-integration_cloud_idm.md)
     * [产品_集成平台_私有ESB](_posts/2017-06-19-integration_esb.md)
     * [产品_集成平台_企业门户](_posts/2017-06-19-integration_portal.md)
- * [日报记录]()   
+* [日报记录]()   
     * [产品_日报](_posts/2017-06-20-day_report_cxz.md)
 
 
