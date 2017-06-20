@@ -12,6 +12,6 @@
     * [产品_私有ESB](_posts/2017-06-19-integration_esb.md)
     * [产品_企业门户](_posts/2017-06-19-integration_portal.md)
     * [产品_云工作台](_posts/2017-06-20-appcenter_cloud_workbench.md)
-    * [产品_8](_posts/2017-06-20-day_report_cxz.md)
+    * [产品_日报](_posts/2017-06-20-day_report_cxz.md)
 
 
