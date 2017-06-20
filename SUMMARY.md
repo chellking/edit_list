@@ -13,6 +13,12 @@
   * [集成平台_云IDM](_posts/2017-06-19-integration_cloud_idm.md)
   * [集成平台_私有ESB](_posts/2017-06-19-integration_esb.md)
   * [集成平台_企业门户](_posts/2017-06-19-integration_portal.md)
+  * [移动平台_MA-Server](_posts/2017-06-20-mobile_maserver.md)
+  * [移动平台_移动开发](_posts/2017-06-20-mobile_develop_platform.md)
+  * [移动平台_EMM](_posts/2017-06-20-mobile_emm.md)
+  * [移动平台_Build-Server](_posts/2017-06-20-mobile_build_server.md)
+  * [开发者中心_云开发者中心](_posts/2017-06-20-cloud_developer_center.md)
+  * [用友云市场_云市场](_posts/2017-06-20-cloud_market_market.md)
 * [博客日报]()
   * [日报_chexz](_posts/2017-06-20-day_report_cxz.md)
 
