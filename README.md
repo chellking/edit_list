@@ -24,24 +24,18 @@
 #### 四级标题
 ##### 五级标题
 ###### 六级标题
-***
-** ------------------     分隔     --------------------- **
-***
+
+```
+
+```
 
 ### 二、粗体和斜体
 
-用两个 ** 包含一段文本就是粗体的语法 **
+用两个 \*\* 包含一段文本就是粗体的语法 \*\*
 
-用一个 * 包含一段文本就是斜体的语法 *
+用一个 \* 包含一段文本就是斜体的语法 \*
 
-### 三、高效绘制 流程图、序列图、甘特图、表格
 
-#### 流程图：
-```
-graph TD
-A[Christmas] -->B(Go shopping)
-B --> C{Let me think}
-```
 
 ### 四、代码高亮
 
@@ -59,7 +53,6 @@ pass
 - [x] 已经完成事项2
 - [ ] 待办事项1
 - [ ] 待办事项2
-
 
 ### 六、列表
 注：-、1.和文字之间要保留一个字符的空格。
@@ -85,20 +78,6 @@ pass
 
 > 记录，成为更好的自己。---有云
 
-### 八、表格
-
-|header1 | hedader2|
-|---|---|
-|row1 col1 | row1 col2|
-|row2 col1 | row2 col2|
-
-** github格式 **
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 ### 九、分割线
 
 这是第一段内容
@@ -115,8 +94,38 @@ Content in the first column | Content in the second column
 ![这是个图片](http://)
 
 
+### 三、高效绘制 流程图、序列图、甘特图、表格
 
-*********
+
+
+
+#### 八、表格
+
+|header1 | hedader2|
+|---|---|
+|row1 col1 | row1 col2|
+|row2 col1 | row2 col2|
+
+** github格式 **
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+#### 流程图：
+```
+graph TD
+A[Christmas] -->B(Go shopping)
+B --> C{Let me think}
+```
+
+**
+
+
+***
+** ------------------     分隔     --------------------- **
+***
 
 语法
 ===
