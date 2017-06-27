@@ -81,6 +81,13 @@ pass
 |row1 col1 | row1 col2|
 |row2 col1 | row2 col2|
 
+-- github格式 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ### 分割线
 
 这是第一段内容
