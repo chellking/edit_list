@@ -123,10 +123,19 @@ class SomeClass(){
 
 ** github格式 **
 
+First Header \| Second Header
+------------ \| -------------
+Content from cell 1 \| Content from cell 2
+Content in the first column \| Content in the second column
+
+效果：
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+
 
 #### 流程图：
 ```
