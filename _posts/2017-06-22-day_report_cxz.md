@@ -210,4 +210,4 @@ categories: 日报
 
 本页手机二维码地址：
 
-![地址](/_posts/images/201707161.png)
+![地址](https://github.com/iuap3/blog/blob/gh-pages/_posts/images/201707161.png)
